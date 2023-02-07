@@ -11,12 +11,14 @@ For Module 3, Python was used to calculate and display the results of a small-sc
 	- Denver: 306,055 votes (82.8% of total)
 	- Arapahoe: 24,801 votes (6.7% of total)
 		- Largest County Turnout: Denver
+
 ![County Breakdown](/Resources/County_Breakdown.png)
 - Candidate Breakdown:
 	- Charles Casper Stockham: 85,213 votes (23.0% of total)
 	- Diana DeGette: 272,892 votes (73.8% of total)
 	- Raymon Anthony Doane: 11,606 votes (3.1% of total)
 		- Candidate Winner: Diana DeGette with 272,892 votes (73.8% of total votes)
+
 ![Candidate Breakdown](/Resources/Candidate_Breakdown.png)
 
 ## Summary
